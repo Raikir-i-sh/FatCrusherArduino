@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a79ecd47d7334f941a49044d2ef85f47, type: 3}
+  m_Name: All_lootDrops
+  m_EditorClassIdentifier: 
+  _items:
+  - itemName: None
+    weight: 1
+    itemPrefab: {fileID: 0}
+  - itemName: Single Banana
+    weight: 0.3
+    itemPrefab: {fileID: 853659988302541848, guid: 1d5be6104078b6049b8262cb2cca269c, type: 3}
+  - itemName: Apple
+    weight: 0.3
+    itemPrefab: {fileID: 1525342992204164390, guid: 6bfe37533e3277a49a77b57979449a0d, type: 3}
+  - itemName: Watermelon
+    weight: 0.05
+    itemPrefab: {fileID: 3057416072935633662, guid: 19e8073b88792a24188b47017776e07c, type: 3}
+  - itemName: Dozen Banana
+    weight: 0.05
+    itemPrefab: {fileID: 8503460540668683367, guid: b57d6b1025a2c1d498f762f3d0510627, type: 3}
